@@ -8,3 +8,4 @@ list of amazing websites that i found
 - [Utsubo](https://utsubo.co/) creative studio (shaders, smooth experience)
 - [Vivid+Co](https://vividand.co/) (3d animation, performance, small size)
 - [Vertexshaderart.com](https://www.vertexshaderart.com/)
+- [rauno.me](https://rauno.me/) (UI design & animation)
