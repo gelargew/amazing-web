@@ -9,4 +9,5 @@ list of amazing websites that i found
 - [Vivid+Co](https://vividand.co/) (3d animation, performance, small size)
 - [Vertexshaderart.com](https://www.vertexshaderart.com/)
 - [rauno.me](https://rauno.me/) (UI design & animation)
-- [Artisans d'idees](https://www.artisansdidees.com/en) VR - so goooddd(creative studio)
+- [Artisans d'idees](https://www.artisansdidees.com/en) VR (creative studio)
+- [14islands](https://14islands.com/lab/) creative studios - 3d, motions
