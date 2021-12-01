@@ -11,3 +11,4 @@ list of amazing websites that i found
 - [rauno.me](https://rauno.me/) (UI design & animation)
 - [Artisans d'idees](https://www.artisansdidees.com/en) VR (creative studio)
 - [14islands](https://14islands.com/lab/) creative studios - 3d, motions
+- [dreampalace](http://dreampalace.benjaminguedj.com/) by Benjamin Guedj (3D/VR Design)
