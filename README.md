@@ -15,3 +15,4 @@ list of amazing websites that i found
 - [cuberto](https://cuberto.com/) digital agency (3D, transition)
 - [Qurieux](https://www.qurieux.fr/) (2d, physics, transition)
 - [Louis Vuitton](https://us.louisvuitton.com/eng-us/stories/louis-200) (3d, low poly, animation, environment)
+- [Florrentbiffi](https://florentbiffi.com/) (portfolio)
