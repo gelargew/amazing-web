@@ -13,3 +13,4 @@ list of amazing websites that i found
 - [14islands](https://14islands.com/lab/) creative studios - 3d, motions
 - [dreampalace](http://dreampalace.benjaminguedj.com/) by Benjamin Guedj (3D/VR Design)
 - [cuberto](https://cuberto.com/) digital agency (3D, transition)
+- [Qurieux](https://www.qurieux.fr/) (2d, physics, transition)
