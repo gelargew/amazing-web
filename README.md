@@ -20,3 +20,4 @@ list of amazing websites that i found
 - [Study of WebGL](https://toshiya-marukubo.github.io/) by [Toshiya Marukubo](https://twitter.com/toshiyamarukubo)  (Shaders)
 - [sougen](https://sougen.co/) by [Utsubo](https://utsubo.co/) (VR)
 - [Godly](https://godly.website/) (design gallery)
+- [kabu-kitamura](https://www.kabu-kitamura.com/) (transition, scroll)
