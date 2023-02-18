@@ -1,6 +1,7 @@
 # amazing-web
 list of amazing websites that i found 
 
+- [array of stars](https://www.arrayofstars.com/) (2d, modern, sections)
 - [activetheory](https://activetheory.net/) (creative studio, professional)
 - [metacrafters](https://www.metacrafters.io) . (3d, postprocessing)
 - [summer afternoon](https://summer-afternoon.vlucendo.com) by [@vlucendo](https://twitter.com/vlucendo). (3d open world exploration)
